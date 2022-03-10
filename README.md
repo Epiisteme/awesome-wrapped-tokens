@@ -3,6 +3,9 @@ Awesome Assets for Wrapped Tokens
 
 ## Introduction
 - https://learn.bybit.com/crypto/what-are-wrapped-tokens-and-how-do-they-work/
+- https://phemex.com/academy/what-are-wrapped-tokens
+- https://cryptolad.co/wrapped-tokens-explained/
+- https://cryptoarena.org/wrapped-tokens/
 
 ## Token Bridges on Ethereum
 - https://github.com/synapsecns/synapse-contracts
