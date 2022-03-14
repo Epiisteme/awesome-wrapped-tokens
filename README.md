@@ -9,6 +9,7 @@ Awesome Assets for Wrapped Tokens
 
 ## Token Bridges on Ethereum
 - https://github.com/synapsecns/synapse-contracts
+- https://github.com/ConsenSys/htlc-bridge
 - https://github.com/nicksinch/EVM-Token-Bridge
 - https://github.com/dev-tom-0108/ETH-RSK-Bridge-solidity
 
