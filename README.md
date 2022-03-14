@@ -3,8 +3,6 @@ Awesome Assets for Wrapped Tokens
 
 ## Introduction
 - https://learn.bybit.com/crypto/what-are-wrapped-tokens-and-how-do-they-work/
-- https://blog.harmony.one/introducing-horizon-an-ethereum-harmony-cross-chain-bridge/
-- https://blog.harmony.one/launching-harmony-binance-smart-chain-bridge/
 - https://phemex.com/academy/what-are-wrapped-tokens
 - https://cryptolad.co/wrapped-tokens-explained/
 - https://cryptoarena.org/wrapped-tokens/
@@ -22,3 +20,7 @@ Awesome Assets for Wrapped Tokens
 - https://chowdera.com/2022/03/202203010046550981.html
 - https://messari.io/resource/hashed-time-lock-contracts-htlc
 - https://liquality.io/blog/hash-time-locked-contracts-htlcs-explained/#how-do-htlcs-work
+
+## Cross Chain Token Bridges 
+- https://blog.harmony.one/introducing-horizon-an-ethereum-harmony-cross-chain-bridge/
+- https://blog.harmony.one/launching-harmony-binance-smart-chain-bridge/
