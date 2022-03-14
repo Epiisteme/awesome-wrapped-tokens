@@ -3,6 +3,7 @@ Awesome Assets for Wrapped Tokens
 
 ## Introduction
 - https://learn.bybit.com/crypto/what-are-wrapped-tokens-and-how-do-they-work/
+- https://blog.harmony.one/introducing-horizon-an-ethereum-harmony-cross-chain-bridge/
 - https://phemex.com/academy/what-are-wrapped-tokens
 - https://cryptolad.co/wrapped-tokens-explained/
 - https://cryptoarena.org/wrapped-tokens/
