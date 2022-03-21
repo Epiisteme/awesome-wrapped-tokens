@@ -19,6 +19,8 @@ Awesome Assets for Wrapped Tokens
 - https://github.com/jxu86/hashed-time-lock-contract
 - https://chowdera.com/2022/03/202203010046550981.html
 - https://messari.io/resource/hashed-time-lock-contracts-htlc
+- https://academy.binance.com/en/glossary/hashed-timelock-contract
+- https://docs.kaleido.io/kaleido-services/token-swaps/htlc/
 - https://liquality.io/blog/hash-time-locked-contracts-htlcs-explained/#how-do-htlcs-work
 
 ## Cross Chain Token Bridges 
