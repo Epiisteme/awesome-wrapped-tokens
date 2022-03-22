@@ -26,3 +26,4 @@ Awesome Assets for Wrapped Tokens
 ## Cross Chain Token Bridges 
 - https://blog.harmony.one/introducing-horizon-an-ethereum-harmony-cross-chain-bridge/
 - https://blog.harmony.one/launching-harmony-binance-smart-chain-bridge/
+- https://www.leewayhertz.com/decentralized-token-bridge-ethereum-bsc/
